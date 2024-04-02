@@ -82,7 +82,7 @@
 
 @media (max-width:900px) {
     .navbar .logo {
-        width: 120px;
+        width: 60px;
     }
     .navbar-menu{
         gap: 15px;
